@@ -20,5 +20,5 @@ compile.py
 Sposób użycia:
 
 W folderze z Plikami należy wywołać:
-python3 kompilator.py [nazwa pliku wejściowego] [nazwa pliku wyjściowego]
+python3 compile.py [nazwa pliku wejściowego] [nazwa pliku wyjściowego]
 
